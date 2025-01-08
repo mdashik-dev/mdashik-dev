@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=12F782&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer;Junior+MERN+Developer" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=12F782&center=true&vCenter=true&width=435&lines=Web+Developer;Front-End+Developer;Junior+MERN+Developer" alt="Typing SVG" /></a>
 --------------------------
 ![](https://raw.githubusercontent.com/mdashik-dev/mdashik-dev/refs/heads/main/Banner.png)
 
