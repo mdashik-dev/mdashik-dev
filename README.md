@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  This is Md Ashik</h3>
 
 ###
 
@@ -52,9 +52,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
