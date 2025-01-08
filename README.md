@@ -23,7 +23,7 @@ I specialize in designing dynamic, responsive websites and applications using Re
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express JS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### **Other Tools:**  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
 
 ### **Design Tools:**  
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
@@ -31,6 +31,11 @@ I specialize in designing dynamic, responsive websites and applications using Re
 ### **CMS and Platforms:**  
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+# 🚀 Popular Projects:
+- 🎮 [**Chill Gamer**](https://chill-gamer-app.web.app/): A modern gaming platform showcasing trending and highest-rated games.  
+- 🎨 [**Prottoy Shilpigosthi**](https://prottoy-culture.vercel.app/): A cultural organization website for showcasing events and activities.
+- 🏡 [**Rinterio**](https://mdashik-dev.github.io/responsive-website-with-tailwind): A design-focused website for interior and house design inspiration.  
+- 🏋️ [**Fitness Project**](https://mdashik-dev.github.io/fitness-responsive-site): A gym and fitness management system.  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdashik-dev&theme=dark&hide_border=true)
