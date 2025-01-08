@@ -32,14 +32,6 @@ I specialize in designing dynamic, responsive websites and applications using Re
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
-###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdashik-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdashik-dev&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdashik-dev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdashik-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mdashik-dev&icon=2&color=3)](https://visitcount.itsvg.in)
